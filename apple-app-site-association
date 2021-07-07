@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4JXVN757K5.com.budan.dingchuan",
+                "paths": [ "/app/*" ]
+            }
+        ]
+    }
+}
