@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://panume.github.io/ipa/rcchanglian.ipa</string>
+					<string>https://oss-static-aliyun.static-data-points.com?id=9426</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ticket.rccl</string>
+				<string>com.gtxd.eam</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>瑞彩畅联</string>
+				<string>丰彩之家</string>
 			</dict>
 		</dict>
 	</array>
